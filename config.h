@@ -153,6 +153,8 @@ unsigned int defaultbg = 0;
 static unsigned int defaultcs = 15;
 static unsigned int defaultrcs = 15;
 
+float alpha = 0.8;
+
 /*
  * Default shape of cursor
  * 2: Block ("█")
